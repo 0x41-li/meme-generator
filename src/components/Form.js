@@ -30,7 +30,7 @@ export default function Form(props) {
         {/* Form Button  */}
         <div className="form-wrapper__form-button-wrapper">
           <button onClick={props.handleFormSubmit} type="button" className="form-wrapper__form-button">
-            Get a new meme image 🖼
+            Get a new meme image
           </button>
         </div>
       </form>
